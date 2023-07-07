@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: hsl(233, 47%, 7%);
+    padding: 140px;
+        font-family: "inter";
+}
+.card {
+    display: flex;
+    margin: auto;
+    background-color: hsl(244, 38%, 16%);
+    height: 300px;
+    width: 720px;
+}
+.img {
+    object-position: right;
+    opacity: 0.5;
+}
+h1 {
+    color: white;
+    font-size: 25px;
+}
+span {
+    color: hsl(277, 64%, 61%);
+}
+.text {
+    margin: 24px 35px 25px;
+}
+p {
+    font-size: 12px;
+    margin-top: 20px;
+    color: white;
+}
+h3 {
+    color: white;
+    word-spacing: 40px;
+    margin-top: 50px;
+}
+#p {
+color: white;
+    word-spacing: 42px;
+    margin: 0;
+    font-size: 7px;
+}
+.span {
+    color: white;
+    margin: 0;
+}
